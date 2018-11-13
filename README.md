@@ -1,5 +1,7 @@
 # Pinterrupt
 
+Higuyswelcomebacktomylaboratorywheresafetyisnumberonepriority.
+
 Video tutorial/presentation for this project here: https://youtu.be/ikpliEVBN0k
 
 The purpose of this project, developed for the Computer Architectures course (AY 2017/18) at Politecnico di Torino, is to estimate the time delay of an interrupt and its standard deviation, on a Raspberry Pi 3 board PC.
@@ -25,3 +27,8 @@ The processor will indefinitely run this piece of code, due to the final [while(
 - You need arm-none-eabi toolchain to compile the code.
 - Rename the *.bin file to kernel7.img, otherwise the Pi won't boot it.
 - You also need 'start.elf' and 'bootcode.bin' in the microSD root. Get them from here https://github.com/raspberrypi/firmware/tree/master/boot
+
+# CONTACTS
+
+* [Enrico Rovere](mailto:s252783@studenti.polito.it)
+* [Giulio Roggero](mailto:s251311@studenti.polito.it)
