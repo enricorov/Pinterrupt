@@ -1,7 +1,5 @@
 # Pinterrupt
 
-Higuyswelcomebacktomylaboratorywheresafetyisnumberonepriority.
-
 Video tutorial/presentation for this project here: https://youtu.be/ikpliEVBN0k
 
 The purpose of this project, developed for the Computer Architectures course (AY 2017/18) at Politecnico di Torino, is to estimate the time delay of an interrupt and its standard deviation, on a Raspberry Pi 3 board PC.
